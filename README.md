@@ -1,5 +1,5 @@
 # SevenApps React Native Case Study
-
+Youtube Link : https://youtube.com/shorts/cSjNqOmA9VQ
 ## Overview
 
 This repository contains a case study for React Native developers applying to SevenApps. The project is a task/todo management application where candidates will demonstrate their ability to handle asynchronous operations and implement proper UI components.
